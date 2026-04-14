@@ -1,11 +1,11 @@
 # 站点配置
 site:
     # 站点 URL（以斜杠结尾）
-    siteURL: "https://twilight.spr-aachen.com/"
+    siteURL: "https://blog.jyd.cc.cd/"
     # 站点标题
-    title: "Twilight"
+    title: "Cedric"
     # 站点副标题
-    subtitle: "Blog Template"
+    subtitle: "Blog"
     # 语言配置
     lang: "en"
     # 翻译配置
@@ -279,7 +279,7 @@ profile:
     # 头像配置 (相对于 /public 目录)
     avatar: "/assets/images/avatar.jpg"
     # 信息配置
-    name: "Twilight"
+    name: "Cedric"
     # 简介配置
     bio: "Hi"
     # 链接配置
@@ -290,7 +290,7 @@ profile:
             # 图标
             icon: "fa6-brands:github"
             # 链接
-            url: "https://github.com/Spr-Aachen/Twilight"
+            url: "https://github.com/wyx8999"
 
 # 公告配置
 announcement:
@@ -319,14 +319,6 @@ post:
     expressiveCode:
         # 主题
         theme: "github-dark"
-    # 许可证配置
-    license:
-        # 启用许可证
-        enable: true
-        # 许可证名称
-        name: "CC BY-NC-SA 4.0"
-        # 许可证链接
-        url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     # 评论配置
     comment:
         # 启用评论功能
